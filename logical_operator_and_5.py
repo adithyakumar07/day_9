@@ -1,6 +1,6 @@
-a=50<30
-b=60>40
+a=10<10
+b=10>10
 print(a)
 print(b)
-c=a or b
+c=a and b
 print(c)
